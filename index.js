@@ -7,7 +7,7 @@ let week_difference = difference / (1000 * 60 * 60 * 24 * 7);
 
 console.log(week_difference);
 
-document.querySelector('#cat_count').textContent = `${week_difference.toFixed(1)} cats!`
+document.querySelector('#cat_count').textContent = `${week_difference.toFixed(1)} c🐈ts!`
 
 
 function add_cat(percentage) {
