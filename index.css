@@ -1,0 +1,9 @@
+.progress_border {
+	border: solid 0.1em black;
+	padding: 0.1em;
+}
+
+.cat {
+	border: dashed 0.1em black;
+	margin: 0.1em;
+}
