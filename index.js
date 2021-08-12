@@ -3,7 +3,7 @@ let d2 = new Date("08/26/2021");
     
 let difference = d2.getTime() - d1.getTime();   
     
-let week_difference = difference / (1000 * 60 * 60 * 24 * 7);  
+let week_difference = difference / (1000 * 60 * 60 * 24);  
 
 console.log(week_difference);
 
