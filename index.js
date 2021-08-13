@@ -1,5 +1,5 @@
 let d1 = new Date();   
-let d2 = new Date("08/26/2021");   
+let d2 = new Date("August 26, 2021 12:30:00");   
     
 let difference = d2.getTime() - d1.getTime();   
     
